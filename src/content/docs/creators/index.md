@@ -63,4 +63,3 @@ We’re so excited that you’d like to join the LearnGrove community! It’s qu
     * *Need to create your Creator Account? [Follow these steps!](#create-a-creator-account)*
 5. Click the “Payouts” tab found under your username
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework

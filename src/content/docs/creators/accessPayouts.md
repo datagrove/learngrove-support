@@ -12,7 +12,7 @@ Creators and Learners have the opportunity to contribute to LearnGrove platform 
 1. Visit [https://learngrove.co/](https://learngrove.co)
 2. Click the three-bar icon to open the menu and click “Sign In”
 3. Sign in to your User Account
-    * *Need to create your User Account? [Follow these steps!](#create-a-user-account)*
+    * *Need to create your User Account? [Follow these steps!](https://support.learngrove.co/creators/#create-a-user-account)*
 4. Click the three-bar menu icon and click “My Creator Profile”
-    * *Need to create your Creator Account? [Follow these steps!](#create-a-creator-account)*
+    * *Need to create your Creator Account? [Follow these steps!](https://support.learngrove.co/creators/#create-a-creator-account)*
 5. Click the “Payouts” tab found under your username
