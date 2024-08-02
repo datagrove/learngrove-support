@@ -1,11 +1,12 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Finding my Purchased Resources
+description: How to find previously purchased resources
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
-
-## Further reading
-
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+## Find my Purchased Resources
+1. Visit [https://learngrove.co/](https://learngrove.co)
+2. Click the three-bar icon to open the menu and click “Sign In”
+3. Sign in to your User Account
+    * *Need to create your User Account? [Follow these steps!](#create-a-user-account)*
+4. Click the three-bar icon to open the menu and click “My User Profile”
+5. Click the “Purchases” tab found under your username
