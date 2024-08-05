@@ -13,7 +13,8 @@ export default {
 		extend: {
 			colors:{
 				accent,
-				gray
+				gray,
+				test: "bg-red-600"
 			},
 		},
 	},
